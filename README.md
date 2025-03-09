@@ -1,1 +1,2 @@
 # story
+# diari asmara kas
